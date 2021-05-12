@@ -1,0 +1,5 @@
+<%= render layout: "layouts/table" do %>
+  <% @books.each do |book| %>
+    <%= render partial: 'shared/book', locals: { book: book } %>
+  <% end %>
+<% end %>

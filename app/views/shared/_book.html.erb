@@ -1,0 +1,13 @@
+<tr>
+  <td><%= image_tag(book.cover_image, width: 85) if book.cover_image.attached? %></td>
+  <td><%= link_to book.name, book_path(book) %></td>
+  <td><%= book.description %></td>
+  <td><% book.authors.map do |author| %>
+    <%= author.name %>
+  <% end %>
+  </td>
+  <td><% book.categories.map do |category| %>
+    <%= category.name %>
+  <% end %>
+  </td>
+</tr>

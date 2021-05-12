@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"categor",
+				"categories"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/archi/ruby/sample_app/Gemfile",
+		"/home/archi/.rbenv/version",
+		"/home/archi/ruby/sample_app/Gemfile.lock",
+		"/home/archi/ruby/arch/sample_app/Gemfile.lock",
+		"/home/archi/ruby/arch/sample_app/Gemfile",
+		"/home/archi/ruby/library/app/views/shared/_header.html.erb",
+		"/home/archi/ruby/library/app/views/layouts/application.html.erb",
+		"/home/archi/ruby/library/app/views/layouts/_detail.html.erb",
+		"/home/archi/ruby/library/app/views/layouts/_table.html.erb",
+		"/home/archi/ruby/library/app/views/books/show.html.erb",
+		"/home/archi/ruby/library/app/views/authors/show.html.erb",
+		"/home/archi/ruby/library/app/views/categories/show.html.erb",
+		"/home/archi/ruby/library/app/views/categories/index.html.erb",
+		"/home/archi/ruby/library/app/views/authors/index.html.erb",
+		"/home/archi/ruby/library/app/views/shared/_book.html.erb",
+		"/home/archi/ruby/library/app/views/shared/_list_books.html.erb",
+		"/home/archi/ruby/library/app/admin/books.rb",
+		"/home/archi/ruby/library/app/views/books/index.html.erb",
+		"/home/archi/ruby/library/app/views/shared/_table.html.erb",
+		"/home/archi/ruby/library/app/javascript/packs/application.js",
+		"/home/archi/ruby/library/Gemfile",
+		"/home/archi/ruby/library/app/admin/authors.rb",
+		"/home/archi/ruby/library/Gemfile.lock",
+		"/home/archi/ruby/library/app/assets/stylesheets/application.scss",
+		"/home/archi/ruby/library/config/initializers/active_admin.rb",
+		"/home/archi/.local/share/Trash/files/_list_books.html.erb",
+		"/home/archi/ruby/library/app/controllers/books_controller.rb",
+		"/home/archi/ruby/library/app/views/shared/_list_books2.html.erb",
+		"/home/archi/ruby/library/tmp/pids/server.pid",
+		"/home/archi/ruby/library/app/views/shared/_list_books_content.html.erb",
+		"/home/archi/ruby/library/app/controllers/authors_controller.rb",
+		"/home/archi/ruby/library/app/controllers/categories_controller.rb",
+		"/home/archi/ruby/library/app/admin/categories.rb",
+		"/home/archi/ruby/library/app/views/books/new.html.erb",
+		"/home/archi/ruby/library/app/views/books/edit.html.erb",
+		"/home/archi/ruby/library/app/models/book.rb",
+		"/home/archi/ruby/library/config/storage.yml",
+		"/home/archi/ruby/library/config/environments/production.rb",
+		"/home/archi/ruby/library/config/environments/development.rb",
+		"/tmp/10920.credentials.yml",
+		"/home/archi/ruby/library/config/credentials.yml.enc",
+		"/home/archi/ruby/library/config/webpacker.yml",
+		"/home/archi/ruby/library/app/views/categories/new.html.erb",
+		"/home/archi/ruby/library/app/views/categories/_new.html.erb",
+		"/home/archi/ruby/library/app/views/categories/edit.html.erb",
+		"/home/archi/ruby/library/config/routes.rb",
+		"/home/archi/ruby/library/app/views/authors/new.html.erb",
+		"/home/archi/ruby/library/app/views/authors/edit.html.erb",
+		"/home/archi/ruby/app/app/views/layouts/application.html.erb",
+		"/home/archi/ruby/app/Gemfile",
+		"/home/archi/ruby/library/app/models/author.rb",
+		"/home/archi/ruby/library/app/models/category.rb",
+		"/home/archi/ruby/library/db/schema.rb",
+		"/home/archi/ruby/library/db/migrate/20200908101052_create_books_categories.rb",
+		"/home/archi/ruby/library/db/migrate/20200908094648_categories.rb",
+		"/home/archi/ruby/library/db/migrate/20200908071529_create_authors_books.rb",
+		"/home/archi/ruby/library/db/migrate/20200907144238_create_authors.rb",
+		"/home/archi/ruby/library/db/migrate/20200907142549_create_books.rb",
+		"/home/archi/Рабочий стол/sqlitebrowser.desktop",
+		"/home/archi/ruby/library/db/migrate/20200907144154_create_categories.rb",
+		"/home/archi/ruby/app/app/views/welcome/index.html.erb",
+		"/home/archi/ruby/app/app/views/articles/new.html.erb",
+		"/home/archi/ruby/app/app/controllers/articles_controller.rb",
+		"/home/archi/ruby/app/config/routes.rb",
+		"/home/archi/Загрузки/audit_a5aa898a7fa04561b5260f8e111fecc7.yaml",
+		"/home/archi/ruby/imdb/README.md",
+		"/home/archi/ruby/imdb/Gemfile",
+		"/home/archi/ruby/imdb/spec/moviecollection_spec.rb",
+		"/home/archi/ruby/imdb/scripts/demo.rb",
+		"/home/archi/ruby/imdb/bin/netflix",
+		"/home/archi/ruby/imdb/views/.keep",
+		"/home/archi/Рабочий стол/untitled.rb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

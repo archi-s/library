@@ -1,0 +1,10 @@
+<% provide :title, 'List of categories' %>
+<%= render layout: "layouts/detail" do %>
+  <% @categories.each do |category| %>
+    <tr>
+      <td><%= link_to category.name, category_path(category) %></td>
+      <td><%= category.books.count %></td>
+    </tr>
+  <% end %>
+<% end %>
+

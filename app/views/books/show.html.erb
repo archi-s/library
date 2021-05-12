@@ -1,0 +1,4 @@
+<% provide :title, @book.name %>
+<%= render layout: "layouts/table" do %>
+    <%= render partial: "shared/book", locals: { book: @book } %>
+<% end %>
